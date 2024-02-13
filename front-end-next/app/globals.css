@@ -20,13 +20,22 @@ body{
   --text-color: #000000;
 }
 
-.nav{
-  position: fixed;
-  left: 20;
-  top: 0;
-  bottom: 0;
-}
-
 .app-container{
   width: 15vw;
+}
+
+.icon{
+  font-size: 30px;
+}
+
+.rounded{
+  border-radius: 30px;
+}
+
+.pl-2\.5 {
+  padding-left: 0em;
+}
+
+.donate-btn{
+  margin-top: 50px;
 }
