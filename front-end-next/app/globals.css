@@ -10,6 +10,10 @@
   font-family: "Inter", sans-serif;
 }
 
+body{
+  background: #E2E2E2;
+}
+
 :root {
   /* Your custom root styles */
   --main-color:#1FA45B;
@@ -23,3 +27,6 @@
   bottom: 0;
 }
 
+.app-container{
+  width: 15vw;
+}
